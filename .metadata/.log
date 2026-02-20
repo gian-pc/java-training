@@ -1,0 +1,39 @@
+!SESSION 2026-02-19 19:32:48.673 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=es_PE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 19:32:54.821
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 19:34:42.421
+!MESSAGE Logback config file: /Users/admin/Desktop/projects/cursos/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-19 23:37:57.326 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=es_PE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:37:59.449
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-19 23:38:07.246
+!MESSAGE Logback config file: /Users/admin/Desktop/projects/cursos/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
+!SESSION 2026-02-20 11:30:55.408 -----------------------------------------------
+eclipse.buildId=4.38.0.20251204-0849
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=es_PE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch aarch64 -product org.eclipse.epp.package.jee.product -keyring /Users/admin/.eclipse_keyring
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 11:30:57.443
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2026-02-20 11:31:04.094
+!MESSAGE Logback config file: /Users/admin/Desktop/projects/cursos/curso-java/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.7.101.20251017-1242.xml
