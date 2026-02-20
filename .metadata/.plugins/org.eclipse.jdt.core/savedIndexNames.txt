@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+/Users/admin/Desktop/projects/cursos/curso-java/.metadata/.plugins/org.eclipse.jdt.core
-1865797976.index
-1252947361.index
-453264732.index

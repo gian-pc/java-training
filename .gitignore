@@ -3,9 +3,10 @@
 .project
 .settings/
 bin/
+.metadata/
 
 # MacOS
 .DS_Store
 
 # Logs
-*.log.metadata/
+*.log
