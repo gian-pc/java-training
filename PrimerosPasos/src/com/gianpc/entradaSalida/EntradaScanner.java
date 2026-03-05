@@ -14,7 +14,7 @@ public class EntradaScanner {
 		
 		System.out.println("Introduce tu nombre, por favor");
 		
-		entrada.nextLine();
+		entrada.nextLine();  // Si finalizamos con un nextLine debemos agregar una nextLine demas para un siguiente salto de linea y asi pueda leer la siguiente sentencia
 		String nombre = entrada.nextLine();
 		
 		
