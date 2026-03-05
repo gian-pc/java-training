@@ -11,8 +11,8 @@ public class Condicional_If_Ejemplo1 {
 
 		if (edad >= 18) {
 			System.out.println("Eres mayor de edad, puedes pasar");
-		}else {
-			System.out.println("Eres menor de edad");
+		} else {
+			System.out.println("Eres menor de edad, no puedes pasar");
 		}
 
 	}
