@@ -8,11 +8,14 @@ public class EntradaScanner {
 		// TODO Auto-generated method stub
 
 		Scanner entrada = new Scanner(System.in);
-		System.out.println("Introduce tu nombre, por favor");
 
-		String nombre = entrada.nextLine();
-		System.out.println("Hola " + nombre);
+		System.out.println("Introduce el primer numero");
+		int numero1 = entrada.nextInt();
 
+		System.out.println("Introduce el segundo numero");
+		int numero2 = entrada.nextInt();
+
+		System.out.println("El resultado es:  " + (numero1 + numero2));
+		entrada.close();
 	}
-
 }
