@@ -9,13 +9,13 @@ public class Condicional_If_Ejemplo3 {
 		int distancia_colegio;
 		double renta_familiar;
 		byte hermanos_centro;
-		
+
 		distancia_colegio = Integer.parseInt(JOptionPane.showInputDialog("Introduce distancia al colegio en km"));
 		renta_familiar = Double.parseDouble(JOptionPane.showInputDialog("Introduce renta familiar"));
 		hermanos_centro = Byte.parseByte(JOptionPane.showInputDialog("Introduce el numero de hermanos"));
-		if(distancia_colegio >10 || renta_familiar < 2000 || hermanos_centro >= 2) {
+		if (distancia_colegio > 10 || renta_familiar < 2000 || hermanos_centro >= 2) {
 			System.out.println("El alumno tiene beca");
-		}else {
+		} else {
 			System.out.println("El alumno no tiene beca");
 		}
 
