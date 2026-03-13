@@ -12,15 +12,12 @@ public class Anidamiento_If {
 		if (edad >= 18) {
 			String carnet = JOptionPane.showInputDialog("Tienes carnet?: ");
 
-			if (carnet.equalsIgnoreCase("si")) {
-				JOptionPane.showMessageDialog(null, "Puedes comprar el coche");
+			if (carnet.equalsIgnoreCase("si")) JOptionPane.showMessageDialog(null, "Puedes comprar el coche");
 
-			} else {
-				JOptionPane.showMessageDialog(null, "Sin carnet no hay coche");
-			}
-		} else {
-			JOptionPane.showMessageDialog(null, "Si ere menor no puedes tener carnet y por lo tanto tampoco coche");
-		}
+			 else JOptionPane.showMessageDialog(null, "Sin carnet no hay coche");
+			
+		} else JOptionPane.showMessageDialog(null, "Si ere menor no puedes tener carnet y por lo tanto tampoco coche");
+		
 
 	}
 
